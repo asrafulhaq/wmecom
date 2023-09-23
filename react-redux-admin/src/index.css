@@ -19,3 +19,8 @@
   right: 30px;
   bottom: 30px;
 }
+
+.rdt_TableCell,
+.rdt_TableCol {
+  font-size: 15px;
+}
